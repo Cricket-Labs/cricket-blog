@@ -1,2 +1,2 @@
-# cricket-docusaurus-blog
+# cricket-blog
 A blog using docusaurus
