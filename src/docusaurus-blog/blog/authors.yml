@@ -15,3 +15,9 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+khan:
+  name: Khanh Nguyen
+  title: Miscellaneous Business @ Cricket Project
+  url: https://cricketproject.org/
+  image_url: ../../static/img/cricketprojectfulllogofinal.jpg
